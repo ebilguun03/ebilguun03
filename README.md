@@ -1,6 +1,6 @@
 # Bil (Bilguun) Enkhbileg
 
-Recent Computer Science & Data Analytics graduate from University of Washington.
+Senior in Computer Science & Data Analytics graduate from University of Washington.
 
 ## Links
 
